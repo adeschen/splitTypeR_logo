@@ -1,10 +1,13 @@
 # splitTypeR logo
 
-<img src="logo.png" align="right" height="200" alt="splitTypeR logo: a camel whose two humps represent the two distributions of the mixture model" />
+<img src="logo.png" align="right" height="150" alt="splitTypeR logo: a camel whose two humps represent the two distributions of the mixture model" />
 
 Logo of the [splitTypeR](https://github.com/adeschen/splitTypeR) R package,
 which classifies bulk transcriptomic samples using gene signatures and a
 mixture of two normal distributions.
+
+<br />
+<br />
 
 ## Design
 
